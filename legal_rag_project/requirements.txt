@@ -2,3 +2,9 @@ numpy
 PyPDF2
 scikit-learn
 streamlit
+pandas
+regex
+
+# Optional: if you later add OpenAI/Azure OpenAI integration
+# openai
+# python-dotenv
